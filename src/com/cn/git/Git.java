@@ -3,8 +3,13 @@ package com.cn.git;
 public class Git {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+     new Git().git();
+	}
+	/*git 第一次使用*/
+	public  void git(){
+		
+		System.out.println("git is first glass!");
 	}
 
 }
