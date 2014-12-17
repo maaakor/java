@@ -6,10 +6,10 @@ public class Git {
 
      new Git().git();
 	}
-	/*git µÚÒ»´ÎÊ¹ÓÃ*/
+	/*git ç¬¬ä¸€æ¬¡ä½¿ç”¨*/
 	public  void git(){
 		
-		System.out.println("git is first glass!");
+		System.out.println("git is first class!");
 	}
 
 }
